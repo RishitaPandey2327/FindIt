@@ -1,0 +1,4 @@
+L-001|LOST|Watch|Electronics|Black|Library|2026-10-24||Abc|LOST|
+F-001|FOUND|Watch|Electronics|Black|Library|2026-10-24||Bvh|RETURNED|
+L-002|LOST|watch|Electronics|White|Library|2026-10-30||abc|LOST|
+F-002|FOUND|watch|Electronics|White|Library|2026-10-30||vbh|FOUND|

@@ -1,0 +1,11 @@
+# compiled files
+out/
+*.class
+
+# app data created at runtime
+data/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
